@@ -1,6 +1,11 @@
 # WikiCommentsClassifier
 
 - [Video Presentation](#video-presentation)
+- [Questions](#questions)
+
+# Video Presentation
+
+https://user-images.githubusercontent.com/78377396/184251882-e704ae35-073b-4937-a5ff-fb2a314fd936.mp4
 
 # Questions
 
@@ -52,6 +57,5 @@ j. What was the hardest thing to do?
 
 - Reading all the documentation for sklearn libraries. Theres so much to learn and improve!
 
-# Video Presentation
 
-<video src='Joffrey_Inocencio_ProjectVideo.mp4' />
+
